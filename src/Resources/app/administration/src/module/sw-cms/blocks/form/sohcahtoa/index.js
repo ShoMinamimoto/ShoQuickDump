@@ -15,6 +15,6 @@ Shopware.Service('cmsService').registerCmsBlock({
         sizingMode: 'boxed'
     },
     slots: {
-        content: 'sohcahtoa'
+        content: 'text'
     }
 });
